@@ -2,7 +2,7 @@
 
 Projetos criados usando Flutter
 
-## [Movie App - UI]([https://github.com/Marbarret/vai_chover](https://github.com/Marbarret/flutter_movie_app)) ###
+## [Movie App - UI](https://github.com/Marbarret/flutter_movie_app) ###
 
 Tech Used
 
