@@ -6,20 +6,19 @@ Projetos criados usando Flutter
 
 Tech Used
 
-* 💿 Core Data
-* 🎨 Flutter
-* 🏦 App Storage
-* 🎁 WishKit API
-* 💰 IAP
-* 📲 WidgetKit
+* language: Flutter
+* IDE: Android Studio 17.0.6
+* Packge: Google Fonts | Carousel Slider | Flutter Rating Bar
 
-
-## Converso de Moeda ###
+## [Unit Test](https://github.com/Marbarret/for_unitTest_Kotlin) ###
 
 Tech Used
 
-* 🎨 SwiftUI
-* 🏦 App Storage
-* 🎁 WishKit API
-* 💰 IAP
-* 📲 WidgetKit
+* Language: Kotlin
+* IDE: Android Studio Iguana
+
+## [Calculator](https://github.com/Marbarret/calculator_flutter) ###
+Tech Used
+
+* language: Flutter
+* IDE: Android Studio 17.0.6
