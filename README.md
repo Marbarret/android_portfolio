@@ -8,7 +8,7 @@ Tech Used
 
 * language: Flutter
 * IDE: Android Studio 17.0.6
-* Packge: Google Fonts | Carousel Slider | Flutter Rating Bar
+* Package: Google Fonts | Carousel Slider | Flutter Rating Bar
 
 ## [Unit Test](https://github.com/Marbarret/for_unitTest_Kotlin) ###
 
